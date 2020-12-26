@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-public class Learn extends KeyAdapter{
+public class CharacterCalculator extends KeyAdapter{
     Frame f;
     Label l;
     TextArea area;
