@@ -29,5 +29,6 @@ public class CharacterCalculator extends KeyAdapter{
 
     public static void main(String[] args) {
         new Learn();
+        System.out.println("Hello Friends");
     }
 }
